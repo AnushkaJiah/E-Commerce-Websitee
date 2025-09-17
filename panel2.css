@@ -1,0 +1,54 @@
+.panel {
+  font-family: Arial;
+  height: 38px;
+  background-color: #222f3d;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: space-evenly;
+
+  width: 100%;
+}
+
+.panel-option p {
+  display: inline;
+  margin-left: 15px;
+  /* margin: 5px 0 6px 0;
+  padding: 8px 5px; */
+}
+
+.panel-option {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 95%;
+  font-size: 14px;
+  padding: 0px 5px;
+  cursor: pointer;
+}
+
+.panel-option div {
+  margin-left: 5px;
+}
+
+.panel-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 19px;
+  padding: 8px 5px;
+}
+
+.panel-all-text {
+  font-size: 14px;
+}
+
+.border2 {
+  border: 1px solid transparent;
+  padding: 8px 5px;
+}
+
+.border2:hover {
+  border: 1px solid white;
+}

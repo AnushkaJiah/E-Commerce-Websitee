@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  font-family: Arial;
+  box-sizing: border-box;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #0f1111;
+  color: white;
+  display: flex;
+  position: static;
+  float: none;
+  align-items: center;
+  justify-content: space-evenly; 
+}
+
+.nav-logo {
+  height: 50px;
+  width: 100px;
+}
+
+/* box 1 */
+.logo {
+  background-image: url(Images/amazon_logo.jpg);
+  height: 60px;
+  width: 100%;
+  background-size: cover;
+  cursor: pointer;
+} 
+
+.border-logo {
+  border: 1px solid transparent;
+  /* padding-top: 7.5px;
+  padding-bottom: 4px; */
+}
+
+.border-logo:hover {
+  border: 1px solid white;
+}
+
+
+.border {
+  border: 1px solid transparent;
+  /* padding: 8px 5px; */
+  padding-top: 7px;
+  padding-bottom: 4px;
+}
+
+.border:hover {
+  border: 1px solid white;
+}
+
+/* box2 */
+.nav-address {
+  cursor: pointer;
+}
+
+.add-first {
+  color: #cccc;
+  font-size: 0.85rem;
+  margin-left: 15px;
+}
+
+.add-second {
+  font-size: 1rem;
+  margin-left: 3px;
+}
+
+.add-icon {
+  display: flex;
+  align-items: center;
+}
+
+/* box 3 */
+.nav-search {
+  display: flex;
+  justify-content: space-evenly;
+  width: 750px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.search-input:hover {
+  border: 2px solid orange;
+}
+
+.search-select {
+  background-color: #f3f3f3;
+  width: 50px;
+  text-align: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-select:hover {
+  background-color: rgb(205, 200, 200);
+}
+
+.search-input {
+  width: 100%;
+  font-size: 1rem;
+  border: none;
+}
+
+.search-icon {
+  width: 50px;
+  display: flex;
+  color: #0f1111;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  background-color: rgb(243, 181, 95);
+  cursor: pointer;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.search-icon:hover {
+  background-color: rgb(236, 162, 59);
+}
+
+ /*box 4*/
+ .nav-signin,
+ .nav-return,
+ .nav-cart{
+  cursor: pointer;
+ }
+
+ span {
+  font-size: 0.7rem;
+ }
+
+ .nav-second {
+  font-size: 0.85rem;
+  font-weight: 700;
+ }
+
+ .box4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+ }
+
+ /* box 6 */
+ .nav-cart i {
+  font-size: 30px;
+ }
+
+ .nav-cart {
+  font-size: 0.85rem;
+  font-weight: 700;
+ }
