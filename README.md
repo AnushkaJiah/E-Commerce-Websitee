@@ -28,7 +28,7 @@ This project replicates the layout, design, and responsive structure of Amazon�
   - Footer with legal links and copyright
  
 ## 🌐 Live Demo 
-🔗 [View Here](https://your-demo-link.com)
+🔗 [View Here](https://anushkajiah.github.io/Ecommerce-Clone/)
 
 ## 🎥 Preview 
 
