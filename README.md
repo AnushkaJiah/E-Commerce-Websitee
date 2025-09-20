@@ -1,6 +1,11 @@
 
 # 🛒 Amazon.com Clone
 
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) 
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?logo=github)
+
+
 A front-end clone of Amazon’s landing page built using HTML and CSS.
 This project replicates the layout, design, and responsive structure of Amazon’s homepage with a navigation bar, hero section, product showcases, and footer.
 
@@ -28,7 +33,7 @@ This project replicates the layout, design, and responsive structure of Amazon�
   - Footer with legal links and copyright
  
 ## 🌐 Live Demo 
-🔗 [View Here](https://anushkajiah.github.io/E-Commerce-Website/)
+👉 For the full experience, check the [Live Demo](https://anushkajiah.github.io/E-Commerce-Website/)
 
 ## 🎥 Preview 
 
@@ -39,11 +44,17 @@ Here’s a quick look at the project:
 
 ## 🖼️ Project Structure
 
-├── index.html        # Main HTML file
-├── navbar.css         # Styles for navigation bar
-├── panel2.css         # Styles for secondary panel
-├── main.css           # Styles for hero, shop, carousel & footer
-└── Images/            # Images used in the project (logo, banners, products)
+📂 E-Commerce-Website
+┣ 📜 index.html
+┣ 📂 css
+┃ ┣ navbar.css
+┃ ┣ panel2.css
+┃ ┗ main.css
+┣ 📂 images
+┃ ┣ logo.png
+┃ ┣ banner.jpg
+┃ ┗ product1.png
+
 
 ## 🛠️ Tech Stack
 
@@ -60,17 +71,21 @@ Here’s a quick look at the project:
     <td><b>Font Awesome</b> – Icons for cart, search, location, etc.</td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="40"/></td>
   </tr>
+  <tr>
+    <td><b>GitHub Pages</b> – Deployment & hosting</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+  </tr>
 </table>
 
 ##  Responsiveness
 
-- Uses CSS Grid & Flexbox for layout
-- Media queries for different screen widths
-- Works best on desktop & large screens (basic responsiveness included)
+- Built with CSS Grid & Flexbox for layout  
+- Media queries ensure compatibility with tablets & desktops  
+- Mobile support is basic (to be improved in future updates)  
 
 
 ## 📌 Future Improvements
 
-- Add JavaScript for interactive features (carousel controls, dropdowns, dynamic cart).
-- Improve mobile responsiveness.
-- Dark mode support.
+- [ ] Add JavaScript for interactive features (carousel, dropdowns, cart)
+- [ ] Improve mobile responsiveness
+- [ ] Add Dark Mode support
