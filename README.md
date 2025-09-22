@@ -37,6 +37,8 @@ This project replicates the layout, design, and responsive structure of Amazon�
 Here’s a quick look at the project:
 
 ![Amazon Clone Screenshot](Look1.jpg)
+![Amazon Clone Screenshot](Look2.jpg)
+![Amazon Clone Screenshot](Look3.jpg)
 
 
 ## 🖼️ Project Structure
