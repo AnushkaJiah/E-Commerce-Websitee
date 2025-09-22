@@ -32,9 +32,6 @@ This project replicates the layout, design, and responsive structure of Amazon�
   - Back to top button
   - Footer with legal links and copyright
  
-## 🌐 Live Demo 
-👉 For the full experience, check the [Live Demo](https://anushkajiah.github.io/E-Commerce-Website/)
-
 ## 🎥 Preview 
 
 Here’s a quick look at the project:
