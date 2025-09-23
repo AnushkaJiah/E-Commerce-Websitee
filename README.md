@@ -3,7 +3,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) 
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?logo=github)
 
 
 A front-end clone of Amazon’s landing page built using HTML and CSS.
@@ -69,10 +68,6 @@ Here’s a quick look at the project:
   <tr>
     <td><b>Font Awesome</b> – Icons for cart, search, location, etc.</td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><b>GitHub Pages</b> – Deployment & hosting</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
   </tr>
 </table>
 
